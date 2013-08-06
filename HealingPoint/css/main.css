@@ -1,0 +1,14 @@
+p {
+	font-family: Georgia;
+}
+#header {
+	border: 2px solid rgb(64,153,255);
+	background-color: white;	
+}
+#wrap {
+	padding: 10px;
+	border-radius: 5px;
+}
+html, #wrap {
+	background-color: rgb(152,251,152);
+}
