@@ -1,4 +1,4 @@
-p {
+p, h1, h3, h2 {
 	font-family: Georgia;
 }
 #header {
@@ -9,6 +9,12 @@ p {
 	padding: 10px;
 	border-radius: 5px;
 }
-html, #wrap {
+a.hover {
+	background-color: white;
+}
+#content {
+	padding: 10px;
+}
+html, #wrap, a, .tab-pane, #content {
 	background-color: rgb(136, 204, 68);
 }
