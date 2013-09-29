@@ -1,6 +1,11 @@
 p, h1, h3, h2 {
 	font-family: Georgia;
 }
+.nav-pills {
+	margin: 0 auto;
+	padding: 0;
+	width: 550px;
+}
 #header {
 	border: 2px solid rgb(64,153,255);
 	background-color: white;	
